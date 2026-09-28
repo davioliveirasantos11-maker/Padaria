@@ -19,7 +19,7 @@ body {
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #e65555;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    color: #f8a203;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #FFFFFF;
+    color: #ffffff57;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #A0521A;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #FDEEDC;
+    background-color: #0ce2c6;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
@@ -67,10 +67,10 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #E0C9A6;
+    border: 1px solid #7700ff;
     border-radius: 8px;
     padding: 12px;
-    background-color: #FFFFFF;
+    background-color: #ff4f4f;
 }
 
 .card img {
@@ -99,20 +99,20 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #1321e0;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
-    color: #FFFFFF;
+    background-color: #fd9c57;
+    color: #00d41c;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
-    color: #FFFFFF;
+    background-color: #381801;
+    color: #c24949;
     text-align: center;
     padding: 16px;
     margin-top: 24px;
